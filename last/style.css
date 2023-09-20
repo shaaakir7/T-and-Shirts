@@ -10,7 +10,9 @@ body {
     object-fit: cover;
   }
 }
-
+header{
+  background-color: #343a40;
+}
 nav {
   background-color: #444;
   padding: 10px;
@@ -60,7 +62,9 @@ footer {
     position: relative;
     bottom: 0px;
     width: 100%;
-    background-color: lightgrey !important;
+    background-color: #333 !important;
   }
-  
+  header{
+    background-color: #333;
+  }
 }
